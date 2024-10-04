@@ -2,7 +2,7 @@
 
 A simple React application that displays fun facts about React.
 
-![React Facts Screenshot](./public/image/react-info-site.png)
+![React Facts Screenshot](/public/images/react-info-site.png)
 
 [Live Demo](https://react-info-site-coral.vercel.app/)
 
